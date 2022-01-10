@@ -19,3 +19,5 @@
 
 ## 長方形を左右に動かしてみる
 raycasting, snake にある `ebitenutil.DrawRect` を使って動かしてみます。
+
+<img width="600" alt="Screen Shot 2022-01-10 at 10 50 04 AM" src="https://user-images.githubusercontent.com/948237/148710198-545f39eb-c763-4263-86ba-fbfd5c8be9d9.png">
