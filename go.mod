@@ -4,6 +4,7 @@ go 1.17
 
 require (
 	github.com/go-gl/glfw/v3.3/glfw v0.0.0-20210727001814-0db043d8d5be // indirect
+	github.com/hajimehoshi/ebiten v1.12.12 // indirect
 	github.com/hajimehoshi/ebiten/v2 v2.2.3 // indirect
 	github.com/hajimehoshi/oto/v2 v2.1.0-alpha.2 // indirect
 	github.com/jakecoffman/cp v1.1.0 // indirect
