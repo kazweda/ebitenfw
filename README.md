@@ -12,6 +12,10 @@
 - doomfire
 - flappy
 - piano
+- raycasting
 - snake
 - vector
 - wav
+
+## 長方形を左右に動かしてみる
+raycasting, snake にある `ebitenutil.DrawRect` を使って動かしてみます。
